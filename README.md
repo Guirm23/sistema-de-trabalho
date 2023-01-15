@@ -1,3 +1,3 @@
-<h1> Sistema de cadas nos jogos </h1>
+<h1> Criando sistema de cadastro nos jogos<h1>
 
->status do projeto: Em andamento
+>Status do projeto: Em andamento
